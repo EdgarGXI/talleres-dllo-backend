@@ -3,10 +3,6 @@ function convertidorTemp(gradCel){
     return tempFaren
 }
 
-const test= 30
-
-console.log(convertidorTemp(test))
-
 
 function resolvedor(b, a, c, val){
     if (val== true){
